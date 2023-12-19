@@ -14,6 +14,7 @@ namespace HelloWorld
                 const double PI_NUMBER = 3.14;
                 Console.WriteLine("Hello, World:");
                 Console.WriteLine("Nazywam się Michał Mucik");
+                Console.WriteLine(PI_NUMBER);
                 if (PI_NUMBER > 2) 
                 {
                 }
